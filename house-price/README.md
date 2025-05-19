@@ -49,7 +49,10 @@ Libraries:
 `Web browser` — to run and interact with the `Streamlit`app locally or on a server.
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Streamlitss](Screenshots/Screenshot%202025-05-18%20224218.png)
+
+![Notebookss](Screenshots/Notebook.png)
+
 
 
 ## Features
